@@ -14,7 +14,7 @@
 
 ## Матрица заинтересованности
 
-![image](https://github.com/Xclooown/project/assets/81986321/8acbf1ed-020a-4f05-aa02-396d00f402bf)
+![github ruslan](https://github.com/Xclooown/project/assets/81986321/3b17a6c3-c069-4ff9-8467-001d1d648278)
 
 
 ## Список операций проекта
