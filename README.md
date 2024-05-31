@@ -14,7 +14,7 @@
 
 ## Матрица заинтересованности
 
-![Матрица заинтересованных](https://github.com/ArsapsBlue/Proekt/assets/63094630/ea893ab7-7884-4952-b15a-b03ed0ee563e)
+![image](https://github.com/Xclooown/project/assets/81986321/8acbf1ed-020a-4f05-aa02-396d00f402bf)
 
 
 ## Список операций проекта
